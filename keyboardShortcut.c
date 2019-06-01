@@ -142,10 +142,5 @@ void removeTime()
 	{
 		*(scr+(index*2)+1)=0x00;
 	}
-}
-	
-			
-			
-		
-		
+}		
 	
